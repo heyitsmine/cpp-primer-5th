@@ -1,4 +1,4 @@
-C:\Users\hs\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\191.7479.33\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\cpp-primer-5th
+/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/hs/CLionProjects/cpp-primer
 -- Configuring done
 -- Generating done
--- Build files have been written to: E:/cpp-primer-5th/cmake-build-debug
+-- Build files have been written to: /home/hs/CLionProjects/cpp-primer/cmake-build-debug
