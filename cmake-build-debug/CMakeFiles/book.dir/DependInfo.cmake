@@ -4,12 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hs/CLionProjects/cpp-primer/main.cpp" "/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/cpp_primer.dir/main.cpp.o"
+  "E:/cpp-primer-5th/exercises/1-20.cc" "E:/cpp-primer-5th/cmake-build-debug/CMakeFiles/book.dir/exercises/1-20.cc.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  ".././1"
   )
 
 # Targets to which this target links.

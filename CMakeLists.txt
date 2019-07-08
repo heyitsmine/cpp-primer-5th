@@ -3,4 +3,6 @@ project(cpp_primer)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(main 1/main_only.cc)
+include_directories(./1)
+
+add_executable(book exercises/1-20.cc)

@@ -1,3 +1,3 @@
-/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/main.dir
-/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/cpp-primer-5th/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/cpp-primer-5th/cmake-build-debug/CMakeFiles/book.dir
+E:/cpp-primer-5th/cmake-build-debug/CMakeFiles/rebuild_cache.dir

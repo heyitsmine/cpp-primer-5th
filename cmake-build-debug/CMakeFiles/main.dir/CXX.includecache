@@ -6,5 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/hs/CLionProjects/cpp-primer/1/main_only.cc
+.././1/Sales_item.h
+iostream
+-
+string
+-
+
+E:/cpp-primer-5th/exercises/1-20.cc
+iostream
+-
+Sales_item.h
+E:/cpp-primer-5th/exercises/Sales_item.h
 

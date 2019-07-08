@@ -25,9 +25,9 @@
  * 	One Lake Street
  * 	Upper Saddle River, NJ  07458
  * 	Fax: (201) 236-3290
-*/
+*/ 
 
-int main()
+int main() 
 {
-    return -1;
+	return 0;
 }
