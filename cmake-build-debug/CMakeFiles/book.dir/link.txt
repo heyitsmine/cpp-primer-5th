@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/book.dir/1/avg_price.cc.o  -o book 
+/usr/bin/c++  -g   CMakeFiles/book.dir/exercises/3-5.cc.o CMakeFiles/book.dir/exercises/3-6.cc.o  -o book 

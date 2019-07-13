@@ -27,14 +27,13 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hs/CLionProjects/cpp-primer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="book">
-				<Option output="/home/hs/CLionProjects/cpp-primer/cmake-build-debug/book" prefix_auto="0" extension_auto="0"/>
+			<Target title="main">
+				<Option output="/home/hs/CLionProjects/cpp-primer/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/hs/CLionProjects/cpp-primer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/hs/CLionProjects/cpp-primer/./1"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -45,20 +44,19 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/hs/CLionProjects/cpp-primer/cmake-build-debug/Makefile&quot;  VERBOSE=1 book"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hs/CLionProjects/cpp-primer/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hs/CLionProjects/cpp-primer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/hs/CLionProjects/cpp-primer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hs/CLionProjects/cpp-primer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="book/fast">
-				<Option output="/home/hs/CLionProjects/cpp-primer/cmake-build-debug/book" prefix_auto="0" extension_auto="0"/>
+			<Target title="main/fast">
+				<Option output="/home/hs/CLionProjects/cpp-primer/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/hs/CLionProjects/cpp-primer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/hs/CLionProjects/cpp-primer/./1"/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -69,7 +67,7 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/hs/CLionProjects/cpp-primer/cmake-build-debug/Makefile&quot;  VERBOSE=1 book/fast"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hs/CLionProjects/cpp-primer/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hs/CLionProjects/cpp-primer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/home/hs/CLionProjects/cpp-primer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hs/CLionProjects/cpp-primer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -86,8 +84,8 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/1/avg_price.cc">
-			<Option target="book"/>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/3-10.cc">
+			<Option target="main"/>
 		</Unit>
 		<Unit filename="/home/hs/CLionProjects/cpp-primer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

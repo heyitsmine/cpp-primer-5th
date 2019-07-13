@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/book.dir/1/avg_price.cc.o"
+  "CMakeFiles/book.dir/exercises/3-5.cc.o"
+  "CMakeFiles/book.dir/exercises/3-6.cc.o"
   "book.pdb"
   "book"
 )

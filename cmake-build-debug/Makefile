@@ -111,44 +111,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named book
+# Target rules for targets named main
 
 # Build rule for target.
-book: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 book
-.PHONY : book
+main: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 main
+.PHONY : main
 
 # fast build rule for target.
-book/fast:
-	$(MAKE) -f CMakeFiles/book.dir/build.make CMakeFiles/book.dir/build
-.PHONY : book/fast
+main/fast:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
+.PHONY : main/fast
 
-1/avg_price.o: 1/avg_price.cc.o
+exercises/3-10.o: exercises/3-10.cc.o
 
-.PHONY : 1/avg_price.o
+.PHONY : exercises/3-10.o
 
 # target to build an object file
-1/avg_price.cc.o:
-	$(MAKE) -f CMakeFiles/book.dir/build.make CMakeFiles/book.dir/1/avg_price.cc.o
-.PHONY : 1/avg_price.cc.o
+exercises/3-10.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/3-10.cc.o
+.PHONY : exercises/3-10.cc.o
 
-1/avg_price.i: 1/avg_price.cc.i
+exercises/3-10.i: exercises/3-10.cc.i
 
-.PHONY : 1/avg_price.i
+.PHONY : exercises/3-10.i
 
 # target to preprocess a source file
-1/avg_price.cc.i:
-	$(MAKE) -f CMakeFiles/book.dir/build.make CMakeFiles/book.dir/1/avg_price.cc.i
-.PHONY : 1/avg_price.cc.i
+exercises/3-10.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/3-10.cc.i
+.PHONY : exercises/3-10.cc.i
 
-1/avg_price.s: 1/avg_price.cc.s
+exercises/3-10.s: exercises/3-10.cc.s
 
-.PHONY : 1/avg_price.s
+.PHONY : exercises/3-10.s
 
 # target to generate assembly for a file
-1/avg_price.cc.s:
-	$(MAKE) -f CMakeFiles/book.dir/build.make CMakeFiles/book.dir/1/avg_price.cc.s
-.PHONY : 1/avg_price.cc.s
+exercises/3-10.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/3-10.cc.s
+.PHONY : exercises/3-10.cc.s
 
 # Help Target
 help:
@@ -157,11 +157,11 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... book"
+	@echo "... main"
 	@echo "... edit_cache"
-	@echo "... 1/avg_price.o"
-	@echo "... 1/avg_price.i"
-	@echo "... 1/avg_price.s"
+	@echo "... exercises/3-10.o"
+	@echo "... exercises/3-10.i"
+	@echo "... exercises/3-10.s"
 .PHONY : help
 
 
