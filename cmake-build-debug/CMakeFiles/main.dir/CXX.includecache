@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/hs/CLionProjects/cpp-primer/exercises/3-10.cc
+/home/hs/CLionProjects/cpp-primer/exercises/3-45.cc
 iostream
 -
-string
+vector
 -
-cctype
+iterator
+-
+cstddef
 -
 
