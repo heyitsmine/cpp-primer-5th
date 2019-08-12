@@ -39,10 +39,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/hs/CLionProjects/cpp-primer/cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -123,32 +123,59 @@ main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-exercises/3-45.o: exercises/3-45.cc.o
+exercises/4-31.o: exercises/4-31.cc.o
 
-.PHONY : exercises/3-45.o
+.PHONY : exercises/4-31.o
 
 # target to build an object file
-exercises/3-45.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/3-45.cc.o
-.PHONY : exercises/3-45.cc.o
+exercises/4-31.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/4-31.cc.o
+.PHONY : exercises/4-31.cc.o
 
-exercises/3-45.i: exercises/3-45.cc.i
+exercises/4-31.i: exercises/4-31.cc.i
 
-.PHONY : exercises/3-45.i
+.PHONY : exercises/4-31.i
 
 # target to preprocess a source file
-exercises/3-45.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/3-45.cc.i
-.PHONY : exercises/3-45.cc.i
+exercises/4-31.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/4-31.cc.i
+.PHONY : exercises/4-31.cc.i
 
-exercises/3-45.s: exercises/3-45.cc.s
+exercises/4-31.s: exercises/4-31.cc.s
 
-.PHONY : exercises/3-45.s
+.PHONY : exercises/4-31.s
 
 # target to generate assembly for a file
-exercises/3-45.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/3-45.cc.s
-.PHONY : exercises/3-45.cc.s
+exercises/4-31.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/4-31.cc.s
+.PHONY : exercises/4-31.cc.s
+
+exercises/4-37.o: exercises/4-37.cc.o
+
+.PHONY : exercises/4-37.o
+
+# target to build an object file
+exercises/4-37.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/4-37.cc.o
+.PHONY : exercises/4-37.cc.o
+
+exercises/4-37.i: exercises/4-37.cc.i
+
+.PHONY : exercises/4-37.i
+
+# target to preprocess a source file
+exercises/4-37.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/4-37.cc.i
+.PHONY : exercises/4-37.cc.i
+
+exercises/4-37.s: exercises/4-37.cc.s
+
+.PHONY : exercises/4-37.s
+
+# target to generate assembly for a file
+exercises/4-37.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/4-37.cc.s
+.PHONY : exercises/4-37.cc.s
 
 # Help Target
 help:
@@ -159,9 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... main"
 	@echo "... edit_cache"
-	@echo "... exercises/3-45.o"
-	@echo "... exercises/3-45.i"
-	@echo "... exercises/3-45.s"
+	@echo "... exercises/4-31.o"
+	@echo "... exercises/4-31.i"
+	@echo "... exercises/4-31.s"
+	@echo "... exercises/4-37.o"
+	@echo "... exercises/4-37.i"
+	@echo "... exercises/4-37.s"
 .PHONY : help
 
 

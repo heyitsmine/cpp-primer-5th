@@ -19,5 +19,6 @@ int main()
     for (auto item : v)
         cout << item << ' ';
     cout << endl;
+    cout << a << endl;
     return 0;
 }

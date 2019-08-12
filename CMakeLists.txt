@@ -4,4 +4,4 @@ project(cpp_primer)
 set(CMAKE_CXX_STANDARD 11)
 
 
-add_executable(main exercises/3-45.cc)
+add_executable(main exercises/4-31.cc exercises/4-37.cc)

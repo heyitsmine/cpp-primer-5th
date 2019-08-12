@@ -34,10 +34,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -57,30 +57,45 @@ include CMakeFiles/main.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/main.dir/flags.make
 
-CMakeFiles/main.dir/exercises/3-45.cc.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/exercises/3-45.cc.o: ../exercises/3-45.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/exercises/3-45.cc.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/exercises/3-45.cc.o -c /home/hs/CLionProjects/cpp-primer/exercises/3-45.cc
+CMakeFiles/main.dir/exercises/4-31.cc.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/exercises/4-31.cc.o: ../exercises/4-31.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/exercises/4-31.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/exercises/4-31.cc.o -c /home/hs/CLionProjects/cpp-primer/exercises/4-31.cc
 
-CMakeFiles/main.dir/exercises/3-45.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/exercises/3-45.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hs/CLionProjects/cpp-primer/exercises/3-45.cc > CMakeFiles/main.dir/exercises/3-45.cc.i
+CMakeFiles/main.dir/exercises/4-31.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/exercises/4-31.cc.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hs/CLionProjects/cpp-primer/exercises/4-31.cc > CMakeFiles/main.dir/exercises/4-31.cc.i
 
-CMakeFiles/main.dir/exercises/3-45.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/exercises/3-45.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hs/CLionProjects/cpp-primer/exercises/3-45.cc -o CMakeFiles/main.dir/exercises/3-45.cc.s
+CMakeFiles/main.dir/exercises/4-31.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/exercises/4-31.cc.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hs/CLionProjects/cpp-primer/exercises/4-31.cc -o CMakeFiles/main.dir/exercises/4-31.cc.s
+
+CMakeFiles/main.dir/exercises/4-37.cc.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/exercises/4-37.cc.o: ../exercises/4-37.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/exercises/4-37.cc.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/main.dir/exercises/4-37.cc.o -c /home/hs/CLionProjects/cpp-primer/exercises/4-37.cc
+
+CMakeFiles/main.dir/exercises/4-37.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/exercises/4-37.cc.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hs/CLionProjects/cpp-primer/exercises/4-37.cc > CMakeFiles/main.dir/exercises/4-37.cc.i
+
+CMakeFiles/main.dir/exercises/4-37.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/exercises/4-37.cc.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hs/CLionProjects/cpp-primer/exercises/4-37.cc -o CMakeFiles/main.dir/exercises/4-37.cc.s
 
 # Object files for target main
 main_OBJECTS = \
-"CMakeFiles/main.dir/exercises/3-45.cc.o"
+"CMakeFiles/main.dir/exercises/4-31.cc.o" \
+"CMakeFiles/main.dir/exercises/4-37.cc.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
-main: CMakeFiles/main.dir/exercises/3-45.cc.o
+main: CMakeFiles/main.dir/exercises/4-31.cc.o
+main: CMakeFiles/main.dir/exercises/4-37.cc.o
 main: CMakeFiles/main.dir/build.make
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

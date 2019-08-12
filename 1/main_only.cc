@@ -29,5 +29,5 @@
 
 int main() 
 {
-	return 257;
+	return -1;
 }
