@@ -123,59 +123,32 @@ main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-exercises/4-31.o: exercises/4-31.cc.o
+exercises/6-10.o: exercises/6-10.cc.o
 
-.PHONY : exercises/4-31.o
-
-# target to build an object file
-exercises/4-31.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/4-31.cc.o
-.PHONY : exercises/4-31.cc.o
-
-exercises/4-31.i: exercises/4-31.cc.i
-
-.PHONY : exercises/4-31.i
-
-# target to preprocess a source file
-exercises/4-31.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/4-31.cc.i
-.PHONY : exercises/4-31.cc.i
-
-exercises/4-31.s: exercises/4-31.cc.s
-
-.PHONY : exercises/4-31.s
-
-# target to generate assembly for a file
-exercises/4-31.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/4-31.cc.s
-.PHONY : exercises/4-31.cc.s
-
-exercises/4-37.o: exercises/4-37.cc.o
-
-.PHONY : exercises/4-37.o
+.PHONY : exercises/6-10.o
 
 # target to build an object file
-exercises/4-37.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/4-37.cc.o
-.PHONY : exercises/4-37.cc.o
+exercises/6-10.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/6-10.cc.o
+.PHONY : exercises/6-10.cc.o
 
-exercises/4-37.i: exercises/4-37.cc.i
+exercises/6-10.i: exercises/6-10.cc.i
 
-.PHONY : exercises/4-37.i
+.PHONY : exercises/6-10.i
 
 # target to preprocess a source file
-exercises/4-37.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/4-37.cc.i
-.PHONY : exercises/4-37.cc.i
+exercises/6-10.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/6-10.cc.i
+.PHONY : exercises/6-10.cc.i
 
-exercises/4-37.s: exercises/4-37.cc.s
+exercises/6-10.s: exercises/6-10.cc.s
 
-.PHONY : exercises/4-37.s
+.PHONY : exercises/6-10.s
 
 # target to generate assembly for a file
-exercises/4-37.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/4-37.cc.s
-.PHONY : exercises/4-37.cc.s
+exercises/6-10.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/6-10.cc.s
+.PHONY : exercises/6-10.cc.s
 
 # Help Target
 help:
@@ -186,12 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... main"
 	@echo "... edit_cache"
-	@echo "... exercises/4-31.o"
-	@echo "... exercises/4-31.i"
-	@echo "... exercises/4-31.s"
-	@echo "... exercises/4-37.o"
-	@echo "... exercises/4-37.i"
-	@echo "... exercises/4-37.s"
+	@echo "... exercises/6-10.o"
+	@echo "... exercises/6-10.i"
+	@echo "... exercises/6-10.s"
 .PHONY : help
 
 
