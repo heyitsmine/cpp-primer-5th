@@ -12,166 +12,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db347db8-059d-4e7d-b5b8-35acfd74d786" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-11.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-12.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/Sales_item.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/add.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/add_item.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/add_item2.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/avg_price.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/data/add" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/data/add_item" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/data/book_sales" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/data/mysum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/data/occurs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/for_ex.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/forcount.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/item_io.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/main" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/main_only.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/mysum.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/occurs.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/runpgms" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/val" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/whilecount.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/Sales_data.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/Sales_data.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/compounddecls.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/convs.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/data/add_item" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/data/data/add_item" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/dbl_ptr.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/decl-ex.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/escape.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/inits.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/literals.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/ref-ex.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/runpgms" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/runpgms.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/scope_levels.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/unsigned.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/add_using.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/arrayScores.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/cctype.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/char_repl.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/cstring_hdr.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/data/add" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/data/grades" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/data/hexify" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/data/iterarith" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/data/ptr_traversal2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/data/string_io" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/data/vecStrings2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/data/word_echo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/getline.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/hexify.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/multidim.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/ptr_traversal2.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/runpgms" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/square.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/strcompare.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/string_add.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/string_io.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/string_io2.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/string_size.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/string_size2.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/string_size3.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/vecScores.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/vecStrings2.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/vecSubs.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/vec_decls.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/word_echo.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/arith-ex.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/arraysizeof.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/cond.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/data/oofe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/data/vecSubs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/incr.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/int-div.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/oofe.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/overflow.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/prec.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/runpgms" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/shift-prec.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/sizeof_pgm.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/unaryOps.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/vec_init.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4/warn_dbltoint.cc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/exercises/4-31.cc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/exercises/6-10.cc.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cpp_primer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cpp_primer.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/main" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-10.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-11.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-13.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-16.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-19.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-20.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-21.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-22.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-23.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-3.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-4.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-5.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-7.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-8.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/1-9.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-16.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-17.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-27.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-31.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-34.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-35.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-37.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-39.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-4.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-41.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-42.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-8.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/2-9.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-1.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-10.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-13.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-14.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-15.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-2.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-22.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-23.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-28.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-31.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-41.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-43.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-44.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-45.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-5.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/3-6.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/4-10.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/4-21.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/4-28.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/4-29.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/4-31.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/4-37.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/Sales_data.h" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -259,7 +114,7 @@
       <workItem from="1563674931284" duration="6734000" />
       <workItem from="1565615098416" duration="411000" />
       <workItem from="1565615519356" duration="612000" />
-      <workItem from="1565752014120" duration="10713000" />
+      <workItem from="1565752014120" duration="12143000" />
     </task>
     <task id="LOCAL-00001" summary="Finish chapter 1.">
       <created>1562597489336</created>

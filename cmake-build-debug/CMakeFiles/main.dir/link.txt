@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/main.dir/exercises/6-10.cc.o  -o main 
+/usr/bin/c++  -g   CMakeFiles/main.dir/exercises/6/6-11.cc.o  -o main 

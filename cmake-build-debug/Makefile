@@ -123,32 +123,32 @@ main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-exercises/6-10.o: exercises/6-10.cc.o
+exercises/6/6-11.o: exercises/6/6-11.cc.o
 
-.PHONY : exercises/6-10.o
+.PHONY : exercises/6/6-11.o
 
 # target to build an object file
-exercises/6-10.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/6-10.cc.o
-.PHONY : exercises/6-10.cc.o
+exercises/6/6-11.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/6/6-11.cc.o
+.PHONY : exercises/6/6-11.cc.o
 
-exercises/6-10.i: exercises/6-10.cc.i
+exercises/6/6-11.i: exercises/6/6-11.cc.i
 
-.PHONY : exercises/6-10.i
+.PHONY : exercises/6/6-11.i
 
 # target to preprocess a source file
-exercises/6-10.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/6-10.cc.i
-.PHONY : exercises/6-10.cc.i
+exercises/6/6-11.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/6/6-11.cc.i
+.PHONY : exercises/6/6-11.cc.i
 
-exercises/6-10.s: exercises/6-10.cc.s
+exercises/6/6-11.s: exercises/6/6-11.cc.s
 
-.PHONY : exercises/6-10.s
+.PHONY : exercises/6/6-11.s
 
 # target to generate assembly for a file
-exercises/6-10.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/6-10.cc.s
-.PHONY : exercises/6-10.cc.s
+exercises/6/6-11.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/6/6-11.cc.s
+.PHONY : exercises/6/6-11.cc.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... main"
 	@echo "... edit_cache"
-	@echo "... exercises/6-10.o"
-	@echo "... exercises/6-10.i"
-	@echo "... exercises/6-10.s"
+	@echo "... exercises/6/6-11.o"
+	@echo "... exercises/6/6-11.i"
+	@echo "... exercises/6/6-11.s"
 .PHONY : help
 
 

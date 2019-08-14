@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hs/CLionProjects/cpp-primer/exercises/6-10.cc" "/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/main.dir/exercises/6-10.cc.o"
+  "/home/hs/CLionProjects/cpp-primer/exercises/6/6-11.cc" "/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/main.dir/exercises/6/6-11.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
