@@ -12,8 +12,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db347db8-059d-4e7d-b5b8-35acfd74d786" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-11.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-12.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-17.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-21.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-22.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-23.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-25.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-27.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-30.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-33.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-37.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-42.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-44.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-47.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-51.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/6/6-54.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" afterDir="false" />
@@ -22,11 +34,13 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/exercises/6-10.cc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/exercises/6/6-11.cc.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/test.cc.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/test.cc.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cpp_primer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cpp_primer.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/main" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/test.cc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +67,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -115,6 +130,12 @@
       <workItem from="1565615098416" duration="411000" />
       <workItem from="1565615519356" duration="612000" />
       <workItem from="1565752014120" duration="12143000" />
+      <workItem from="1565922694716" duration="3228000" />
+      <workItem from="1566092516156" duration="1834000" />
+      <workItem from="1566095516936" duration="25000" />
+      <workItem from="1566100472646" duration="9870000" />
+      <workItem from="1566181785683" duration="2884000" />
+      <workItem from="1566198916176" duration="7994000" />
     </task>
     <task id="LOCAL-00001" summary="Finish chapter 1.">
       <created>1562597489336</created>

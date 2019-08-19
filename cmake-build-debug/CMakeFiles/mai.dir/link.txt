@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mai.dir/exercises/6/6-51.cc.o  -o mai 

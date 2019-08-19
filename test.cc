@@ -3,10 +3,10 @@
 //
 
 #include <iostream>
+using std::cout; using std::endl;
 #include <cstdio>
-
-using std::cout;
-using std::endl;
+#include <string>
+using std::string;
 
 void print_byte(int *flag)
 {
