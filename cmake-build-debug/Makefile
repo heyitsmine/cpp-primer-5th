@@ -123,32 +123,32 @@ main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-test.o: test.cc.o
+exercises/7/7-21.o: exercises/7/7-21.cc.o
 
-.PHONY : test.o
+.PHONY : exercises/7/7-21.o
 
 # target to build an object file
-test.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test.cc.o
-.PHONY : test.cc.o
+exercises/7/7-21.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-21.cc.o
+.PHONY : exercises/7/7-21.cc.o
 
-test.i: test.cc.i
+exercises/7/7-21.i: exercises/7/7-21.cc.i
 
-.PHONY : test.i
+.PHONY : exercises/7/7-21.i
 
 # target to preprocess a source file
-test.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test.cc.i
-.PHONY : test.cc.i
+exercises/7/7-21.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-21.cc.i
+.PHONY : exercises/7/7-21.cc.i
 
-test.s: test.cc.s
+exercises/7/7-21.s: exercises/7/7-21.cc.s
 
-.PHONY : test.s
+.PHONY : exercises/7/7-21.s
 
 # target to generate assembly for a file
-test.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test.cc.s
-.PHONY : test.cc.s
+exercises/7/7-21.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-21.cc.s
+.PHONY : exercises/7/7-21.cc.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... main"
 	@echo "... edit_cache"
-	@echo "... test.o"
-	@echo "... test.i"
-	@echo "... test.s"
+	@echo "... exercises/7/7-21.o"
+	@echo "... exercises/7/7-21.i"
+	@echo "... exercises/7/7-21.s"
 .PHONY : help
 
 

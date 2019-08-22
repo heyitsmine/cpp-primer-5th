@@ -12,20 +12,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db347db8-059d-4e7d-b5b8-35acfd74d786" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-17.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-21.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-22.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-23.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-25.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-27.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-30.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-33.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-37.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-42.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-44.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-47.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-51.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/6/6-54.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-1.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-11.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-11.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-12.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-13.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-14.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-15.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-2.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-21.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-21.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-22.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-4.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-6.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-7.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/7/7-9.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" afterDir="false" />
@@ -34,9 +35,8 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/exercises/6/6-11.cc.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/test.cc.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/test.cc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/test.cc.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cpp_primer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cpp_primer.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/main" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/main" afterDir="false" />
@@ -79,7 +79,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,6 +136,11 @@
       <workItem from="1566100472646" duration="9870000" />
       <workItem from="1566181785683" duration="2884000" />
       <workItem from="1566198916176" duration="7994000" />
+      <workItem from="1566224485065" duration="158000" />
+      <workItem from="1566306179652" duration="2597000" />
+      <workItem from="1566360187478" duration="628000" />
+      <workItem from="1566372843089" duration="5943000" />
+      <workItem from="1566438914630" duration="14400000" />
     </task>
     <task id="LOCAL-00001" summary="Finish chapter 1.">
       <created>1562597489336</created>

@@ -84,7 +84,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/test.cc">
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/7/7-21.cc">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/7/7-21.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/7/7-22.h">
 			<Option target="main"/>
 		</Unit>
 		<Unit filename="/home/hs/CLionProjects/cpp-primer/CMakeLists.txt">

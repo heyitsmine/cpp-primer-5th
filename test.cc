@@ -17,10 +17,17 @@ void print_byte(int *flag)
     printf("\n");
 }
 
+
+
 int main()
 {
-    int flag = 65;
-    cout << sizeof flag << endl;
-    print_byte(&flag);
+    int a = -1;
+    unsigned int b = 1;
+    cout << sizeof(int) << endl;
+    cout << sizeof(long) << endl;
+    cout << sizeof(long long) << endl;
+    cout << sizeof(double) << endl;
+    cout << sizeof(long double) << endl;
+    cout << sizeof(unsigned int) << endl;
     return 0;
 }

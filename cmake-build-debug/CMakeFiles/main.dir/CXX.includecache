@@ -6,10 +6,16 @@
 
 #IncludeRegexTransform: 
 
-/home/hs/CLionProjects/cpp-primer/test.cc
+/home/hs/CLionProjects/cpp-primer/exercises/7/7-21.cc
 iostream
 -
-cstdio
+string
+-
+7-21.h
+/home/hs/CLionProjects/cpp-primer/exercises/7/7-21.h
+
+/home/hs/CLionProjects/cpp-primer/exercises/7/7-21.h
+iostream
 -
 string
 -
