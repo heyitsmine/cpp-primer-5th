@@ -39,10 +39,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.6262.62/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.6262.62/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/hs/CLionProjects/cpp-primer/cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.6262.62/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.5728.100/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.6262.62/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -123,32 +123,32 @@ main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-exercises/7/7-21.o: exercises/7/7-21.cc.o
+exercises/7/7-27.o: exercises/7/7-27.cc.o
 
-.PHONY : exercises/7/7-21.o
+.PHONY : exercises/7/7-27.o
 
 # target to build an object file
-exercises/7/7-21.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-21.cc.o
-.PHONY : exercises/7/7-21.cc.o
+exercises/7/7-27.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-27.cc.o
+.PHONY : exercises/7/7-27.cc.o
 
-exercises/7/7-21.i: exercises/7/7-21.cc.i
+exercises/7/7-27.i: exercises/7/7-27.cc.i
 
-.PHONY : exercises/7/7-21.i
+.PHONY : exercises/7/7-27.i
 
 # target to preprocess a source file
-exercises/7/7-21.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-21.cc.i
-.PHONY : exercises/7/7-21.cc.i
+exercises/7/7-27.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-27.cc.i
+.PHONY : exercises/7/7-27.cc.i
 
-exercises/7/7-21.s: exercises/7/7-21.cc.s
+exercises/7/7-27.s: exercises/7/7-27.cc.s
 
-.PHONY : exercises/7/7-21.s
+.PHONY : exercises/7/7-27.s
 
 # target to generate assembly for a file
-exercises/7/7-21.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-21.cc.s
-.PHONY : exercises/7/7-21.cc.s
+exercises/7/7-27.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-27.cc.s
+.PHONY : exercises/7/7-27.cc.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... main"
 	@echo "... edit_cache"
-	@echo "... exercises/7/7-21.o"
-	@echo "... exercises/7/7-21.i"
-	@echo "... exercises/7/7-21.s"
+	@echo "... exercises/7/7-27.o"
+	@echo "... exercises/7/7-27.i"
+	@echo "... exercises/7/7-27.s"
 .PHONY : help
 
 
