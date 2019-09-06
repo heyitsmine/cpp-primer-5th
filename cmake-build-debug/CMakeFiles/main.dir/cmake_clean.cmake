@@ -1,7 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/main.dir/exercises/7/7-48.cc.o"
-  "CMakeFiles/main.dir/exercises/7/7-52.cc.o"
-  "CMakeFiles/main.dir/exercises/7/7-53.cc.o"
+  "CMakeFiles/main.dir/exercises/10/10-42.cc.o"
   "main.pdb"
   "main"
 )

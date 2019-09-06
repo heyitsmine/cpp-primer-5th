@@ -123,86 +123,32 @@ main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-exercises/7/7-48.o: exercises/7/7-48.cc.o
+exercises/10/10-42.o: exercises/10/10-42.cc.o
 
-.PHONY : exercises/7/7-48.o
-
-# target to build an object file
-exercises/7/7-48.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-48.cc.o
-.PHONY : exercises/7/7-48.cc.o
-
-exercises/7/7-48.i: exercises/7/7-48.cc.i
-
-.PHONY : exercises/7/7-48.i
-
-# target to preprocess a source file
-exercises/7/7-48.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-48.cc.i
-.PHONY : exercises/7/7-48.cc.i
-
-exercises/7/7-48.s: exercises/7/7-48.cc.s
-
-.PHONY : exercises/7/7-48.s
-
-# target to generate assembly for a file
-exercises/7/7-48.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-48.cc.s
-.PHONY : exercises/7/7-48.cc.s
-
-exercises/7/7-52.o: exercises/7/7-52.cc.o
-
-.PHONY : exercises/7/7-52.o
+.PHONY : exercises/10/10-42.o
 
 # target to build an object file
-exercises/7/7-52.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-52.cc.o
-.PHONY : exercises/7/7-52.cc.o
+exercises/10/10-42.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/10/10-42.cc.o
+.PHONY : exercises/10/10-42.cc.o
 
-exercises/7/7-52.i: exercises/7/7-52.cc.i
+exercises/10/10-42.i: exercises/10/10-42.cc.i
 
-.PHONY : exercises/7/7-52.i
-
-# target to preprocess a source file
-exercises/7/7-52.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-52.cc.i
-.PHONY : exercises/7/7-52.cc.i
-
-exercises/7/7-52.s: exercises/7/7-52.cc.s
-
-.PHONY : exercises/7/7-52.s
-
-# target to generate assembly for a file
-exercises/7/7-52.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-52.cc.s
-.PHONY : exercises/7/7-52.cc.s
-
-exercises/7/7-53.o: exercises/7/7-53.cc.o
-
-.PHONY : exercises/7/7-53.o
-
-# target to build an object file
-exercises/7/7-53.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-53.cc.o
-.PHONY : exercises/7/7-53.cc.o
-
-exercises/7/7-53.i: exercises/7/7-53.cc.i
-
-.PHONY : exercises/7/7-53.i
+.PHONY : exercises/10/10-42.i
 
 # target to preprocess a source file
-exercises/7/7-53.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-53.cc.i
-.PHONY : exercises/7/7-53.cc.i
+exercises/10/10-42.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/10/10-42.cc.i
+.PHONY : exercises/10/10-42.cc.i
 
-exercises/7/7-53.s: exercises/7/7-53.cc.s
+exercises/10/10-42.s: exercises/10/10-42.cc.s
 
-.PHONY : exercises/7/7-53.s
+.PHONY : exercises/10/10-42.s
 
 # target to generate assembly for a file
-exercises/7/7-53.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/7/7-53.cc.s
-.PHONY : exercises/7/7-53.cc.s
+exercises/10/10-42.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/10/10-42.cc.s
+.PHONY : exercises/10/10-42.cc.s
 
 # Help Target
 help:
@@ -213,15 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... main"
 	@echo "... edit_cache"
-	@echo "... exercises/7/7-48.o"
-	@echo "... exercises/7/7-48.i"
-	@echo "... exercises/7/7-48.s"
-	@echo "... exercises/7/7-52.o"
-	@echo "... exercises/7/7-52.i"
-	@echo "... exercises/7/7-52.s"
-	@echo "... exercises/7/7-53.o"
-	@echo "... exercises/7/7-53.i"
-	@echo "... exercises/7/7-53.s"
+	@echo "... exercises/10/10-42.o"
+	@echo "... exercises/10/10-42.i"
+	@echo "... exercises/10/10-42.s"
 .PHONY : help
 
 

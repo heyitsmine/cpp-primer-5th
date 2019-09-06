@@ -7,6 +7,6 @@
 
 int main()
 {
-    std::vector<NoDefault> vec(10, 1);
+    std::vector<NoDefault> vec(10);
     return 0;
 }

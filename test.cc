@@ -9,26 +9,14 @@ using std::cout; using std::endl;
 #include <string>
 using std::string;
 
-void print_byte(int *flag)
-{
-    char *p = (char *) flag;
-    int byte_size = 4;
-    for(size_t i = 0; i < byte_size; i++)
-        printf("%c ", p[i]);
-    printf("\n");
-}
-
-
+using Type = int;
 
 int main()
 {
-    int a = -1;
-    unsigned int b = 1;
-    cout << sizeof(int) << endl;
-    cout << sizeof(long) << endl;
-    cout << sizeof(long long) << endl;
-    cout << sizeof(double) << endl;
-    cout << sizeof(long double) << endl;
-    cout << sizeof(unsigned int) << endl;
+    {
+        Type a;
+        using Type = double;
+        Type b;
+    }
     return 0;
 }
