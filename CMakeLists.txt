@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 include_directories(examples)
 
-add_executable(main exercises/10/10-42.cc)
+add_executable(main exercises/11/11-38.cc)

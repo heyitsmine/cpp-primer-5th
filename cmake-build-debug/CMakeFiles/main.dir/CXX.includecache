@@ -6,13 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/hs/CLionProjects/cpp-primer/exercises/10/10-42.cc
-algorithm
+/home/hs/CLionProjects/cpp-primer/exercises/11/11-38.cc
+map
 -
-iostream
--
-list
+unordered_map
 -
 string
+-
+cstddef
+-
+iostream
 -
 

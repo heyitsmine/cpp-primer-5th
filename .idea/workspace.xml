@@ -12,97 +12,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db347db8-059d-4e7d-b5b8-35acfd74d786" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/hs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-1.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-11.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-12.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-13.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-14.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-15.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-16.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-17.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-18.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-19.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-2.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-20.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-21.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-22.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-24.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-25.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-27.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-28.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-29.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-3.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-30.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-31.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-32.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-33.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-34.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-35.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-36.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-37.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-4.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-42.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-6.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-7.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/10/10-9.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/8/8-1.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/8/8-10.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/8/8-11.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/8/8-13.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/8/8-4.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/8/8-5.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/8/8-6.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/8/8-7.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/8/8-8.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/8/8-9.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-11.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-12.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-14.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-15.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-16.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-18.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-19.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-2.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-20.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-24.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-26.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-27.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-28.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-31.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-33.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-34.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-38.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-4.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-41.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-43.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-44.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-45.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-46.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/9/9-5.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/11/11-13.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/11/11-18.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/11/11-20.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/11/11-23.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/11/11-3.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/11/11-33.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/11/11-38.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/11/11-9.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/exercises/7/7-44.cc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/exercises/7/7-48.cc.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/flags.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/test.cc.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/test.cc.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/book.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cpp_primer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cpp_primer.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/main" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/main.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/7/7-44.cc" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/7/7-44.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/test.cc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -221,6 +151,12 @@
       <workItem from="1567649329245" duration="955000" />
       <workItem from="1567650754063" duration="17256000" />
       <workItem from="1567734871340" duration="6035000" />
+      <workItem from="1567780037125" duration="12000" />
+      <workItem from="1567834786784" duration="8359000" />
+      <workItem from="1567909578486" duration="7000" />
+      <workItem from="1567996251270" duration="8573000" />
+      <workItem from="1568029670230" duration="3190000" />
+      <workItem from="1568081436047" duration="2848000" />
     </task>
     <task id="LOCAL-00001" summary="Finish chapter 1.">
       <created>1562597489336</created>
