@@ -86,7 +86,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/11/11-38.cc">
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/12/12-29.cc">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/12/QueryResult.cc">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/12/QueryResult.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/12/TextQuery.cc">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/12/TextQuery.h">
 			<Option target="main"/>
 		</Unit>
 		<Unit filename="/home/hs/CLionProjects/cpp-primer/CMakeLists.txt">

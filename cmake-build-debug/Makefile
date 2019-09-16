@@ -39,10 +39,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.6262.62/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.6603.37/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.6262.62/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.6603.37/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/hs/CLionProjects/cpp-primer/cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.6262.62/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.6603.37/bin/cmake/linux/bin/cmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.6262.62/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+	/home/hs/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/192.6603.37/bin/cmake/linux/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -123,32 +123,86 @@ main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-exercises/11/11-38.o: exercises/11/11-38.cc.o
+exercises/12/12-29.o: exercises/12/12-29.cc.o
 
-.PHONY : exercises/11/11-38.o
+.PHONY : exercises/12/12-29.o
 
 # target to build an object file
-exercises/11/11-38.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/11/11-38.cc.o
-.PHONY : exercises/11/11-38.cc.o
+exercises/12/12-29.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/12-29.cc.o
+.PHONY : exercises/12/12-29.cc.o
 
-exercises/11/11-38.i: exercises/11/11-38.cc.i
+exercises/12/12-29.i: exercises/12/12-29.cc.i
 
-.PHONY : exercises/11/11-38.i
+.PHONY : exercises/12/12-29.i
 
 # target to preprocess a source file
-exercises/11/11-38.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/11/11-38.cc.i
-.PHONY : exercises/11/11-38.cc.i
+exercises/12/12-29.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/12-29.cc.i
+.PHONY : exercises/12/12-29.cc.i
 
-exercises/11/11-38.s: exercises/11/11-38.cc.s
+exercises/12/12-29.s: exercises/12/12-29.cc.s
 
-.PHONY : exercises/11/11-38.s
+.PHONY : exercises/12/12-29.s
 
 # target to generate assembly for a file
-exercises/11/11-38.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/11/11-38.cc.s
-.PHONY : exercises/11/11-38.cc.s
+exercises/12/12-29.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/12-29.cc.s
+.PHONY : exercises/12/12-29.cc.s
+
+exercises/12/QueryResult.o: exercises/12/QueryResult.cc.o
+
+.PHONY : exercises/12/QueryResult.o
+
+# target to build an object file
+exercises/12/QueryResult.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/QueryResult.cc.o
+.PHONY : exercises/12/QueryResult.cc.o
+
+exercises/12/QueryResult.i: exercises/12/QueryResult.cc.i
+
+.PHONY : exercises/12/QueryResult.i
+
+# target to preprocess a source file
+exercises/12/QueryResult.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/QueryResult.cc.i
+.PHONY : exercises/12/QueryResult.cc.i
+
+exercises/12/QueryResult.s: exercises/12/QueryResult.cc.s
+
+.PHONY : exercises/12/QueryResult.s
+
+# target to generate assembly for a file
+exercises/12/QueryResult.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/QueryResult.cc.s
+.PHONY : exercises/12/QueryResult.cc.s
+
+exercises/12/TextQuery.o: exercises/12/TextQuery.cc.o
+
+.PHONY : exercises/12/TextQuery.o
+
+# target to build an object file
+exercises/12/TextQuery.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/TextQuery.cc.o
+.PHONY : exercises/12/TextQuery.cc.o
+
+exercises/12/TextQuery.i: exercises/12/TextQuery.cc.i
+
+.PHONY : exercises/12/TextQuery.i
+
+# target to preprocess a source file
+exercises/12/TextQuery.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/TextQuery.cc.i
+.PHONY : exercises/12/TextQuery.cc.i
+
+exercises/12/TextQuery.s: exercises/12/TextQuery.cc.s
+
+.PHONY : exercises/12/TextQuery.s
+
+# target to generate assembly for a file
+exercises/12/TextQuery.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/TextQuery.cc.s
+.PHONY : exercises/12/TextQuery.cc.s
 
 # Help Target
 help:
@@ -159,9 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... main"
 	@echo "... edit_cache"
-	@echo "... exercises/11/11-38.o"
-	@echo "... exercises/11/11-38.i"
-	@echo "... exercises/11/11-38.s"
+	@echo "... exercises/12/12-29.o"
+	@echo "... exercises/12/12-29.i"
+	@echo "... exercises/12/12-29.s"
+	@echo "... exercises/12/QueryResult.o"
+	@echo "... exercises/12/QueryResult.i"
+	@echo "... exercises/12/QueryResult.s"
+	@echo "... exercises/12/TextQuery.o"
+	@echo "... exercises/12/TextQuery.i"
+	@echo "... exercises/12/TextQuery.s"
 .PHONY : help
 
 

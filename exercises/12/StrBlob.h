@@ -1,9 +1,9 @@
 //
-// Created by hs on 2019/9/10.
+// Created by hs on 2019/9/14.
 //
 
-#ifndef CPP_PRIMER_12_2_H
-#define CPP_PRIMER_12_2_H
+#ifndef CPP_PRIMER_STRBLOB_H
+#define CPP_PRIMER_STRBLOB_H
 
 #include <vector>
 #include <string>
@@ -11,7 +11,9 @@
 #include <memory>
 #include <exception>
 
+class StrBlobPtr;
 class StrBlob {
+    friend StrBlobPtr;
 public:
     typedef std::vector<std::string>::size_type size_type;
 
@@ -55,6 +57,10 @@ public:
         check(0, "back on empty StrBlob");
         return data->back();
     }
+    StrBlobPtr begin();
+    StrBlobPtr end();
+
+
 private:
     std::shared_ptr<std::vector<std::string>> data;
 
@@ -65,4 +71,4 @@ private:
     };
 };
 
-#endif //CPP_PRIMER_12_2_H
+#endif //CPP_PRIMER_STRBLOB_H

@@ -2,21 +2,25 @@
 // Created by hs on 19-7-19.
 //
 
-#include "exercises/7/7-36.h"
 #include <iostream>
-using std::cout; using std::endl;
-#include <cstdio>
+#include <memory>
 #include <string>
-using std::string;
+#include <iostream>
 
-using Type = int;
+std::string fun()
+{
+    auto sp = std::make_shared<std::string>("Hello world!");
+    std::cout << sp.get() << std::endl;
+    std::cout << sp.use_count() << std::endl;
+    return *sp;
+}
 
 int main()
 {
-    {
-        Type a;
-        using Type = double;
-        Type b;
-    }
+//    std::string str =  fun();
+//    auto str =  new std::string("Hello");
+//    auto sp = std::shared_ptr<std::string>(str);
+//    std::cout << sp.get() << std::endl;
+//    std::cout << sp.use_count() << std::endl;
     return 0;
 }

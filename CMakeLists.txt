@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 include_directories(examples)
 
-add_executable(main exercises/11/11-38.cc)
+add_executable(main exercises/12/12-29.cc exercises/12/QueryResult.cc exercises/12/TextQuery.cc)
