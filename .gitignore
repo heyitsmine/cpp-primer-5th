@@ -7,7 +7,7 @@ public/
 .deploy*/
 
 # CMake
-cmake-build-debug
+cmake-build-debug/
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
