@@ -34,7 +34,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/hs/CLionProjects/cpp-primer/examples"/>
+					<Add directory="/home/hs/CLionProjects/cpp-primer/."/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -58,7 +58,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/hs/CLionProjects/cpp-primer/examples"/>
+					<Add directory="/home/hs/CLionProjects/cpp-primer/."/>
 					<Add directory="/usr/include/c++/7"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
 					<Add directory="/usr/include/c++/7/backward"/>
@@ -86,19 +86,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/12/12-29.cc">
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/13/13-48.cc">
 			<Option target="main"/>
 		</Unit>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/12/QueryResult.cc">
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/13/StrVec.cc">
 			<Option target="main"/>
 		</Unit>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/12/QueryResult.h">
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/13/StrVec.h">
 			<Option target="main"/>
 		</Unit>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/12/TextQuery.cc">
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/13/String.cc">
 			<Option target="main"/>
 		</Unit>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/12/TextQuery.h">
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/13/String.h">
 			<Option target="main"/>
 		</Unit>
 		<Unit filename="/home/hs/CLionProjects/cpp-primer/CMakeLists.txt">

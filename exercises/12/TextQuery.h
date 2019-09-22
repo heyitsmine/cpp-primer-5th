@@ -13,7 +13,7 @@
 #include <string>
 #include <memory>
 #include <cctype>
-#include "StrBlob.h"
+#include "exercises/13/StrVec.h"
 
 class QueryResult;
 class TextQuery {
@@ -23,7 +23,7 @@ public:
     QueryResult query(std::string &) const;
 
 private:
-    std::shared_ptr<StrBlob> file;
+    std::shared_ptr<StrVec> file;
     std::map<std::string, std::shared_ptr<std::set<line_no>>> wm;
 };
 

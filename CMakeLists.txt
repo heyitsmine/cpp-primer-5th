@@ -3,6 +3,9 @@ project(cpp_primer)
 
 set(CMAKE_CXX_STANDARD 11)
 
-include_directories(examples)
+include_directories(.)
 
-add_executable(main exercises/12/12-29.cc exercises/12/QueryResult.cc exercises/12/TextQuery.cc)
+add_executable(main
+        exercises/13/StrVec.cc
+        exercises/13/String.cc
+        exercises/13/13-48.cc)

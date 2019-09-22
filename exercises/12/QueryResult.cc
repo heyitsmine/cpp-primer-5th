@@ -12,7 +12,7 @@ std::ostream &print(std::ostream &os, const QueryResult &qr)
        << std::endl;
 
     for (auto line : *qr.lines) {
-        os << "    " << "(line " << line + 1 << ") " << StrBlobPtr(*(qr.file), line).deref() << std::endl;
+        os << "    " << "(line " << line + 1 << ") " << qr.file->at(line) << std::endl;
     }
     return os;
 }

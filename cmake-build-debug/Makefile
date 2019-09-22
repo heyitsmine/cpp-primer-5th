@@ -123,86 +123,86 @@ main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-exercises/12/12-29.o: exercises/12/12-29.cc.o
+exercises/13/13-48.o: exercises/13/13-48.cc.o
 
-.PHONY : exercises/12/12-29.o
-
-# target to build an object file
-exercises/12/12-29.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/12-29.cc.o
-.PHONY : exercises/12/12-29.cc.o
-
-exercises/12/12-29.i: exercises/12/12-29.cc.i
-
-.PHONY : exercises/12/12-29.i
-
-# target to preprocess a source file
-exercises/12/12-29.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/12-29.cc.i
-.PHONY : exercises/12/12-29.cc.i
-
-exercises/12/12-29.s: exercises/12/12-29.cc.s
-
-.PHONY : exercises/12/12-29.s
-
-# target to generate assembly for a file
-exercises/12/12-29.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/12-29.cc.s
-.PHONY : exercises/12/12-29.cc.s
-
-exercises/12/QueryResult.o: exercises/12/QueryResult.cc.o
-
-.PHONY : exercises/12/QueryResult.o
+.PHONY : exercises/13/13-48.o
 
 # target to build an object file
-exercises/12/QueryResult.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/QueryResult.cc.o
-.PHONY : exercises/12/QueryResult.cc.o
+exercises/13/13-48.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/13-48.cc.o
+.PHONY : exercises/13/13-48.cc.o
 
-exercises/12/QueryResult.i: exercises/12/QueryResult.cc.i
+exercises/13/13-48.i: exercises/13/13-48.cc.i
 
-.PHONY : exercises/12/QueryResult.i
+.PHONY : exercises/13/13-48.i
 
 # target to preprocess a source file
-exercises/12/QueryResult.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/QueryResult.cc.i
-.PHONY : exercises/12/QueryResult.cc.i
+exercises/13/13-48.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/13-48.cc.i
+.PHONY : exercises/13/13-48.cc.i
 
-exercises/12/QueryResult.s: exercises/12/QueryResult.cc.s
+exercises/13/13-48.s: exercises/13/13-48.cc.s
 
-.PHONY : exercises/12/QueryResult.s
+.PHONY : exercises/13/13-48.s
 
 # target to generate assembly for a file
-exercises/12/QueryResult.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/QueryResult.cc.s
-.PHONY : exercises/12/QueryResult.cc.s
+exercises/13/13-48.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/13-48.cc.s
+.PHONY : exercises/13/13-48.cc.s
 
-exercises/12/TextQuery.o: exercises/12/TextQuery.cc.o
+exercises/13/StrVec.o: exercises/13/StrVec.cc.o
 
-.PHONY : exercises/12/TextQuery.o
+.PHONY : exercises/13/StrVec.o
 
 # target to build an object file
-exercises/12/TextQuery.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/TextQuery.cc.o
-.PHONY : exercises/12/TextQuery.cc.o
+exercises/13/StrVec.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/StrVec.cc.o
+.PHONY : exercises/13/StrVec.cc.o
 
-exercises/12/TextQuery.i: exercises/12/TextQuery.cc.i
+exercises/13/StrVec.i: exercises/13/StrVec.cc.i
 
-.PHONY : exercises/12/TextQuery.i
+.PHONY : exercises/13/StrVec.i
 
 # target to preprocess a source file
-exercises/12/TextQuery.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/TextQuery.cc.i
-.PHONY : exercises/12/TextQuery.cc.i
+exercises/13/StrVec.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/StrVec.cc.i
+.PHONY : exercises/13/StrVec.cc.i
 
-exercises/12/TextQuery.s: exercises/12/TextQuery.cc.s
+exercises/13/StrVec.s: exercises/13/StrVec.cc.s
 
-.PHONY : exercises/12/TextQuery.s
+.PHONY : exercises/13/StrVec.s
 
 # target to generate assembly for a file
-exercises/12/TextQuery.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/TextQuery.cc.s
-.PHONY : exercises/12/TextQuery.cc.s
+exercises/13/StrVec.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/StrVec.cc.s
+.PHONY : exercises/13/StrVec.cc.s
+
+exercises/13/String.o: exercises/13/String.cc.o
+
+.PHONY : exercises/13/String.o
+
+# target to build an object file
+exercises/13/String.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/String.cc.o
+.PHONY : exercises/13/String.cc.o
+
+exercises/13/String.i: exercises/13/String.cc.i
+
+.PHONY : exercises/13/String.i
+
+# target to preprocess a source file
+exercises/13/String.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/String.cc.i
+.PHONY : exercises/13/String.cc.i
+
+exercises/13/String.s: exercises/13/String.cc.s
+
+.PHONY : exercises/13/String.s
+
+# target to generate assembly for a file
+exercises/13/String.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/String.cc.s
+.PHONY : exercises/13/String.cc.s
 
 # Help Target
 help:
@@ -213,15 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... main"
 	@echo "... edit_cache"
-	@echo "... exercises/12/12-29.o"
-	@echo "... exercises/12/12-29.i"
-	@echo "... exercises/12/12-29.s"
-	@echo "... exercises/12/QueryResult.o"
-	@echo "... exercises/12/QueryResult.i"
-	@echo "... exercises/12/QueryResult.s"
-	@echo "... exercises/12/TextQuery.o"
-	@echo "... exercises/12/TextQuery.i"
-	@echo "... exercises/12/TextQuery.s"
+	@echo "... exercises/13/13-48.o"
+	@echo "... exercises/13/13-48.i"
+	@echo "... exercises/13/13-48.s"
+	@echo "... exercises/13/StrVec.o"
+	@echo "... exercises/13/StrVec.i"
+	@echo "... exercises/13/StrVec.s"
+	@echo "... exercises/13/String.o"
+	@echo "... exercises/13/String.i"
+	@echo "... exercises/13/String.s"
 .PHONY : help
 
 

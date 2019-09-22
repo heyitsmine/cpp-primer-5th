@@ -5,7 +5,7 @@
 #include "TextQuery.h"
 #include "QueryResult.h"
 
-TextQuery::TextQuery(std::ifstream &infile) : file(new StrBlob)
+TextQuery::TextQuery(std::ifstream &infile) : file(new StrVec)
 {
     std::string buf;
     while (getline(infile, buf)) {
