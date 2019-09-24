@@ -9,35 +9,18 @@
 
 class HasPtr {
 public:
-    HasPtr(const std::string &s = std::string()) : ps(new std::string(s)), i(0), use(new std::size_t(1)) {}
+    friend void swap(HasPtr&, HasPtr&);
+    HasPtr(const std::string &s = std::string());
+    HasPtr(const HasPtr &hp);
+    HasPtr(HasPtr &&p) noexcept;
+    HasPtr& operator=(HasPtr rhs);
+    //HasPtr& operator=(const HasPtr &rhs);
+    //HasPtr& operator=(HasPtr &&rhs) noexcept;
+    ~HasPtr();
 
-    HasPtr(const HasPtr &orig) : ps(new std::string(*orig.ps)), i(orig.i), use(orig.use) { ++*use; }
-
-    HasPtr& operator=(const HasPtr &orig)
-    {
-        ++*orig.use;
-        if(--*use == 0)
-        {
-            delete ps;
-            delete use;
-        }
-        ps = orig.ps;
-        i = orig.i;
-        use = orig.use;
-        return *this;
-    }
-    ~HasPtr()
-    {
-        if(--*use == 0)
-        {
-            delete ps;
-            delete use;
-        }
-    }
 private:
     std::string *ps;
     int i;
-    std::size_t *use;
 };
 
 #endif //CPP_PRIMER_HASPTR_H

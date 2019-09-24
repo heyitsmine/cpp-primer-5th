@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/main.dir/exercises/13/StrVec.cc.o CMakeFiles/main.dir/exercises/13/String.cc.o CMakeFiles/main.dir/exercises/13/13-48.cc.o  -o main 
+/usr/bin/c++  -g   CMakeFiles/main.dir/exercises/12/StrBlob.cc.o CMakeFiles/main.dir/test.cc.o  -o main 

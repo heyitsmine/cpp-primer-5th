@@ -86,19 +86,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/13/13-48.cc">
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/12/StrBlob.cc">
 			<Option target="main"/>
 		</Unit>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/13/StrVec.cc">
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/12/StrBlob.h">
 			<Option target="main"/>
 		</Unit>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/13/StrVec.h">
-			<Option target="main"/>
-		</Unit>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/13/String.cc">
-			<Option target="main"/>
-		</Unit>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/13/String.h">
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/test.cc">
 			<Option target="main"/>
 		</Unit>
 		<Unit filename="/home/hs/CLionProjects/cpp-primer/CMakeLists.txt">

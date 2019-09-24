@@ -6,6 +6,7 @@
 #include <memory>
 #include <string>
 #include <iostream>
+#include "exercises/12/StrBlob.h"
 
 class Data {
 public:
@@ -18,5 +19,11 @@ private:
 int main()
 {
     Data val1 = {0, "Anna"};
+
+    int &&a = 1;
+    int &&b = std::move(1);
+    b = 2;
+    std::cout << a << " " << b << std::endl;
+
     return 0;
 }

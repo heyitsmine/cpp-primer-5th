@@ -123,86 +123,59 @@ main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-exercises/13/13-48.o: exercises/13/13-48.cc.o
+exercises/12/StrBlob.o: exercises/12/StrBlob.cc.o
 
-.PHONY : exercises/13/13-48.o
-
-# target to build an object file
-exercises/13/13-48.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/13-48.cc.o
-.PHONY : exercises/13/13-48.cc.o
-
-exercises/13/13-48.i: exercises/13/13-48.cc.i
-
-.PHONY : exercises/13/13-48.i
-
-# target to preprocess a source file
-exercises/13/13-48.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/13-48.cc.i
-.PHONY : exercises/13/13-48.cc.i
-
-exercises/13/13-48.s: exercises/13/13-48.cc.s
-
-.PHONY : exercises/13/13-48.s
-
-# target to generate assembly for a file
-exercises/13/13-48.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/13-48.cc.s
-.PHONY : exercises/13/13-48.cc.s
-
-exercises/13/StrVec.o: exercises/13/StrVec.cc.o
-
-.PHONY : exercises/13/StrVec.o
+.PHONY : exercises/12/StrBlob.o
 
 # target to build an object file
-exercises/13/StrVec.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/StrVec.cc.o
-.PHONY : exercises/13/StrVec.cc.o
+exercises/12/StrBlob.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/StrBlob.cc.o
+.PHONY : exercises/12/StrBlob.cc.o
 
-exercises/13/StrVec.i: exercises/13/StrVec.cc.i
+exercises/12/StrBlob.i: exercises/12/StrBlob.cc.i
 
-.PHONY : exercises/13/StrVec.i
+.PHONY : exercises/12/StrBlob.i
 
 # target to preprocess a source file
-exercises/13/StrVec.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/StrVec.cc.i
-.PHONY : exercises/13/StrVec.cc.i
+exercises/12/StrBlob.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/StrBlob.cc.i
+.PHONY : exercises/12/StrBlob.cc.i
 
-exercises/13/StrVec.s: exercises/13/StrVec.cc.s
+exercises/12/StrBlob.s: exercises/12/StrBlob.cc.s
 
-.PHONY : exercises/13/StrVec.s
+.PHONY : exercises/12/StrBlob.s
 
 # target to generate assembly for a file
-exercises/13/StrVec.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/StrVec.cc.s
-.PHONY : exercises/13/StrVec.cc.s
+exercises/12/StrBlob.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/StrBlob.cc.s
+.PHONY : exercises/12/StrBlob.cc.s
 
-exercises/13/String.o: exercises/13/String.cc.o
+test.o: test.cc.o
 
-.PHONY : exercises/13/String.o
+.PHONY : test.o
 
 # target to build an object file
-exercises/13/String.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/String.cc.o
-.PHONY : exercises/13/String.cc.o
+test.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test.cc.o
+.PHONY : test.cc.o
 
-exercises/13/String.i: exercises/13/String.cc.i
+test.i: test.cc.i
 
-.PHONY : exercises/13/String.i
+.PHONY : test.i
 
 # target to preprocess a source file
-exercises/13/String.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/String.cc.i
-.PHONY : exercises/13/String.cc.i
+test.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test.cc.i
+.PHONY : test.cc.i
 
-exercises/13/String.s: exercises/13/String.cc.s
+test.s: test.cc.s
 
-.PHONY : exercises/13/String.s
+.PHONY : test.s
 
 # target to generate assembly for a file
-exercises/13/String.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/13/String.cc.s
-.PHONY : exercises/13/String.cc.s
+test.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test.cc.s
+.PHONY : test.cc.s
 
 # Help Target
 help:
@@ -213,15 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... main"
 	@echo "... edit_cache"
-	@echo "... exercises/13/13-48.o"
-	@echo "... exercises/13/13-48.i"
-	@echo "... exercises/13/13-48.s"
-	@echo "... exercises/13/StrVec.o"
-	@echo "... exercises/13/StrVec.i"
-	@echo "... exercises/13/StrVec.s"
-	@echo "... exercises/13/String.o"
-	@echo "... exercises/13/String.i"
-	@echo "... exercises/13/String.s"
+	@echo "... exercises/12/StrBlob.o"
+	@echo "... exercises/12/StrBlob.i"
+	@echo "... exercises/12/StrBlob.s"
+	@echo "... test.o"
+	@echo "... test.i"
+	@echo "... test.s"
 .PHONY : help
 
 

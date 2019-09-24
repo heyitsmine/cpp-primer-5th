@@ -27,6 +27,7 @@ public:
     bool empty() const { return data->empty(); }
 
     void push_back(const std::string &t) { data->push_back(t); }
+    void push_back(const std::string &&t) && { data->push_back(std::move(t)); }
 
     void pop_back()
     {
