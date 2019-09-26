@@ -6,27 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/hs/CLionProjects/cpp-primer/exercises/12/StrBlob.h
+/home/hs/CLionProjects/cpp-primer/exercises/14/14-42.cc
+functional
+-
+algorithm
+-
 vector
 -
 string
 -
-initializer_list
--
-memory
--
-exception
--
-
-/home/hs/CLionProjects/cpp-primer/test.cc
-iostream
--
-memory
--
-string
--
-iostream
--
-exercises/12/StrBlob.h
-/home/hs/CLionProjects/cpp-primer/exercises/12/StrBlob.h
 

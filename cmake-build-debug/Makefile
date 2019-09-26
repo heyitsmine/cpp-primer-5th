@@ -123,59 +123,32 @@ main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-exercises/12/StrBlob.o: exercises/12/StrBlob.cc.o
+exercises/14/14-42.o: exercises/14/14-42.cc.o
 
-.PHONY : exercises/12/StrBlob.o
-
-# target to build an object file
-exercises/12/StrBlob.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/StrBlob.cc.o
-.PHONY : exercises/12/StrBlob.cc.o
-
-exercises/12/StrBlob.i: exercises/12/StrBlob.cc.i
-
-.PHONY : exercises/12/StrBlob.i
-
-# target to preprocess a source file
-exercises/12/StrBlob.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/StrBlob.cc.i
-.PHONY : exercises/12/StrBlob.cc.i
-
-exercises/12/StrBlob.s: exercises/12/StrBlob.cc.s
-
-.PHONY : exercises/12/StrBlob.s
-
-# target to generate assembly for a file
-exercises/12/StrBlob.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/12/StrBlob.cc.s
-.PHONY : exercises/12/StrBlob.cc.s
-
-test.o: test.cc.o
-
-.PHONY : test.o
+.PHONY : exercises/14/14-42.o
 
 # target to build an object file
-test.cc.o:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test.cc.o
-.PHONY : test.cc.o
+exercises/14/14-42.cc.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/14/14-42.cc.o
+.PHONY : exercises/14/14-42.cc.o
 
-test.i: test.cc.i
+exercises/14/14-42.i: exercises/14/14-42.cc.i
 
-.PHONY : test.i
+.PHONY : exercises/14/14-42.i
 
 # target to preprocess a source file
-test.cc.i:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test.cc.i
-.PHONY : test.cc.i
+exercises/14/14-42.cc.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/14/14-42.cc.i
+.PHONY : exercises/14/14-42.cc.i
 
-test.s: test.cc.s
+exercises/14/14-42.s: exercises/14/14-42.cc.s
 
-.PHONY : test.s
+.PHONY : exercises/14/14-42.s
 
 # target to generate assembly for a file
-test.cc.s:
-	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test.cc.s
-.PHONY : test.cc.s
+exercises/14/14-42.cc.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/exercises/14/14-42.cc.s
+.PHONY : exercises/14/14-42.cc.s
 
 # Help Target
 help:
@@ -186,12 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... main"
 	@echo "... edit_cache"
-	@echo "... exercises/12/StrBlob.o"
-	@echo "... exercises/12/StrBlob.i"
-	@echo "... exercises/12/StrBlob.s"
-	@echo "... test.o"
-	@echo "... test.i"
-	@echo "... test.s"
+	@echo "... exercises/14/14-42.o"
+	@echo "... exercises/14/14-42.i"
+	@echo "... exercises/14/14-42.s"
 .PHONY : help
 
 

@@ -11,6 +11,7 @@
 #include <iostream>
 
 class String {
+    friend std::ostream &operator<<(std::ostream &os, const String &str);
 public:
     String() : String("") {}
     String(const char *);
@@ -39,5 +40,6 @@ private:
     char *cap;
 };
 
+std::ostream &operator<<(std::ostream &os, const String &str);
 
 #endif //CPP_PRIMER_STRING_H

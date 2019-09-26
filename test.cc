@@ -16,6 +16,7 @@ private:
     int fun() { return ival;};
     static const char cval = 1;
 };
+
 int main()
 {
     Data val1 = {0, "Anna"};

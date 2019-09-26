@@ -73,3 +73,9 @@ String &String::operator=(String &&rhs) noexcept
     std::cout << "String::operator=" << std::endl;
     return *this;
 }
+
+std::ostream &operator<<(std::ostream &os, const String &str)
+{
+    os << str.elements;
+    return os;
+}

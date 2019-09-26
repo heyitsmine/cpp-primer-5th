@@ -12,7 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db347db8-059d-4e7d-b5b8-35acfd74d786" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/13/13-53.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/14/14-30.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/14/14-34.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/14/14-42.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/14/14-7.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/14/StrBlob.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/14/StrBlob.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
@@ -28,9 +33,8 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cpp_primer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cpp_primer.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/main" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/12/StrBlob.h" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/12/StrBlob.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/13/HasPtr.cc" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13/HasPtr.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/13/HasPtr.h" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13/HasPtr.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/13/String.cc" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13/String.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/13/String.h" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13/String.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/test.cc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -171,7 +175,9 @@
       <workItem from="1568943834638" duration="20503000" />
       <workItem from="1569029349340" duration="13532000" />
       <workItem from="1569203420596" duration="5523000" />
-      <workItem from="1569311121076" duration="287000" />
+      <workItem from="1569311121076" duration="7119000" />
+      <workItem from="1569378419225" duration="7000000" />
+      <workItem from="1569461010278" duration="7044000" />
     </task>
     <task id="LOCAL-00001" summary="Finish chapter 1.">
       <created>1562597489336</created>

@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/main.dir/exercises/12/StrBlob.cc.o"
-  "CMakeFiles/main.dir/test.cc.o"
+  "CMakeFiles/main.dir/exercises/14/14-42.cc.o"
   "main.pdb"
   "main"
 )
