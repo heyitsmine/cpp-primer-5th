@@ -4,7 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hs/CLionProjects/cpp-primer/exercises/14/14-42.cc" "/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/main.dir/exercises/14/14-42.cc.o"
+  "/home/hs/CLionProjects/cpp-primer/exercises/15/15-30.cc" "/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/main.dir/exercises/15/15-30.cc.o"
+  "/home/hs/CLionProjects/cpp-primer/exercises/15/Basket.cc" "/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/main.dir/exercises/15/Basket.cc.o"
+  "/home/hs/CLionProjects/cpp-primer/exercises/15/Bulk_quote.cc" "/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/main.dir/exercises/15/Bulk_quote.cc.o"
+  "/home/hs/CLionProjects/cpp-primer/exercises/15/Disc_quote.cc" "/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/main.dir/exercises/15/Disc_quote.cc.o"
+  "/home/hs/CLionProjects/cpp-primer/exercises/15/Limited_quote.cc" "/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/main.dir/exercises/15/Limited_quote.cc.o"
+  "/home/hs/CLionProjects/cpp-primer/exercises/15/Quote.cc" "/home/hs/CLionProjects/cpp-primer/cmake-build-debug/CMakeFiles/main.dir/exercises/15/Quote.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -6,4 +6,8 @@ set(CMAKE_CXX_STANDARD 11)
 include_directories(.)
 
 add_executable(main
-        exercises/14/14-42.cc)
+        exercises/15/Quote.cc
+        exercises/15/Bulk_quote.cc
+        exercises/15/Limited_quote.cc
+        exercises/15/Disc_quote.cc
+        exercises/15/Basket.cc exercises/15/15-30.cc)

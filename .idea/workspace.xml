@@ -12,30 +12,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db347db8-059d-4e7d-b5b8-35acfd74d786" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/14/14-30.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/14/14-34.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/14/14-42.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/14/14-7.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/14/StrBlob.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/14/StrBlob.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/15-11.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/15-17.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/15-22.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/15-26.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/15-28.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/15-3.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/15-30.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/15-6.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/Basket.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/Basket.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/Bulk_quote.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/Bulk_quote.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/Disc_quote.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/Disc_quote.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/Limited_quote.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/Limited_quote.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/Quote.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15/Quote.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/flags.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cpp_primer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cpp_primer.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/main" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/main" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/13/String.cc" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13/String.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/13/String.h" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13/String.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.cc" beforeDir="false" afterPath="$PROJECT_DIR$/test.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/14/14-42.cc" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/14/14-42.cc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +91,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,7 +192,15 @@
       <workItem from="1569203420596" duration="5523000" />
       <workItem from="1569311121076" duration="7119000" />
       <workItem from="1569378419225" duration="7000000" />
-      <workItem from="1569461010278" duration="7044000" />
+      <workItem from="1569461010278" duration="8889000" />
+      <workItem from="1569484875582" duration="692000" />
+      <workItem from="1569550446634" duration="11263000" />
+      <workItem from="1569639790008" duration="1417000" />
+      <workItem from="1570240202330" duration="10395000" />
+      <workItem from="1570325058055" duration="8000" />
+      <workItem from="1570451658117" duration="2485000" />
+      <workItem from="1570499492797" duration="17894000" />
+      <workItem from="1570583493039" duration="4677000" />
     </task>
     <task id="LOCAL-00001" summary="Finish chapter 1.">
       <created>1562597489336</created>
@@ -224,6 +247,46 @@
           <url>file://$PROJECT_DIR$/exercises/8/8-11.cc</url>
           <line>37</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/exercises/15/15-11.cc</url>
+          <line>62</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/exercises/15/15-11.cc</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/exercises/15/15-26.cc</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/exercises/15/Disc_quote.h</url>
+          <line>54</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/exercises/15/Disc_quote.h</url>
+          <line>50</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/exercises/15/Disc_quote.h</url>
+          <line>48</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/exercises/15/Quote.h</url>
+          <line>54</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/exercises/15/15-28.cc</url>
+          <line>19</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -86,7 +86,37 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/14/14-42.cc">
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/15/15-30.cc">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/15/Basket.cc">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/15/Basket.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/15/Bulk_quote.cc">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/15/Bulk_quote.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/15/Disc_quote.cc">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/15/Disc_quote.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/15/Limited_quote.cc">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/15/Limited_quote.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/15/Quote.cc">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/hs/CLionProjects/cpp-primer/exercises/15/Quote.h">
 			<Option target="main"/>
 		</Unit>
 		<Unit filename="/home/hs/CLionProjects/cpp-primer/CMakeLists.txt">

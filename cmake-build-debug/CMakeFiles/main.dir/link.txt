@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/main.dir/exercises/14/14-42.cc.o  -o main 
+/usr/bin/c++  -g   CMakeFiles/main.dir/exercises/15/Quote.cc.o CMakeFiles/main.dir/exercises/15/Bulk_quote.cc.o CMakeFiles/main.dir/exercises/15/Limited_quote.cc.o CMakeFiles/main.dir/exercises/15/Disc_quote.cc.o CMakeFiles/main.dir/exercises/15/Basket.cc.o CMakeFiles/main.dir/exercises/15/15-30.cc.o  -o main 
